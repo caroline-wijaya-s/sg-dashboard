@@ -1,6 +1,6 @@
 # Singapore Housing & Transport Dashboard
 
-A live, auto-updating dashboard tracking HDB resale price trends and public transport ridership across Singapore (2017–2026), built as a data analyst portfolio project.
+A live, auto-updating dashboard tracking HDB resale price trends and public transport ridership across Singapore (2017–2026).
 
 🔗 **Live Dashboard:** https://sg-dashboard-caroline.streamlit.app/
 
