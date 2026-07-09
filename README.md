@@ -3,6 +3,7 @@
 A live, auto-updating dashboard tracking HDB resale price trends and public transport ridership across Singapore (2017–2026).
 
 🔗 **Live Dashboard:** https://sg-dashboard-caroline.streamlit.app/
+🗺️ **Tableau Map:** https://public.tableau.com/shared/2N7QNQZ8D
 
 ---
 
